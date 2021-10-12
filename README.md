@@ -70,9 +70,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Jackzmwon1/Ajuserv2-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju001/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jackzmwon/Jackzser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuserv2)
      </div>
 <br>
 <br >
